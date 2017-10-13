@@ -4,11 +4,12 @@ title: Submission
 ---
 
 <article id="post-24" class="post-24 page type-page status-publish hentry">
+<!--
 					<header class="entry-header">
 						
 						<h1 class="entry-title">Submission &#038; Publishing</h1>
-					</header><!-- .entry-header -->
-
+					</header>
+-->
 					<div class="entry-content">
 						<h3>Submission Guidelines</h3>
 
