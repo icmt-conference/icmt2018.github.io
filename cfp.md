@@ -8,14 +8,20 @@ layout: default
 
 <div class="entry-content">
 
+<p>
+Modeling is a key element in reducing the complexity of software systems during their development and maintenance. Model transformations are essential for elevating models from documentation elements to first-class artifacts. Transformations also play a key role in analyzing models to reveal conceptual flaws or highlight quality bottlenecks and in integrating heterogeneous tools into unified tool chains.
+</p>
+<p>
+Model transformation encompasses a variety of technical spaces, including modelware, grammarware, dataware, and ontoware, a variety of model representations, e.g., trees vs. graphs, and a variety of transformation paradigms including rule-based transformations, term re-writing, and manipulations of objects in general-purpose programming languages. Moreover, in other fields like compiler construction the use of transformations is essential. Identifying means to reuse and share knowledge between fields is also of interest.
+</p>
+<p>
+The study of model transformation includes foundations, structuring mechanisms, and properties, such as modularity and composability, transformation languages, techniques, and tools. An important goal of the field is the development of high-level model transformation languages, providing transformations that are amenable to higher-order model transformations or tailored to specific transformation problems. At the same time, usable and scalable verification techniques for model transformations are essential for the practical development of the field.
+The efficient execution of model queries and transformations by scalable transformation engines is also a key challenge. Novel algorithms as well as innovative (e.g., distributed) execution strategies and domain-specific optimizations are sought in this respect.
+</p>
+<p>
+To achieve impact on software engineering in general, methodologies and tools are required to integrate model transformation into existing development environments and processes. ICMT is the premier forum for researchers and practitioners from all areas of model transformation.
+</p>
 
-
-Modeling is a key element in reducing the complexity of software systems during their development and maintenance. Model transformations are essential for elevating models from documentation elements to first-class artifacts of the development process. Transformations also play a key role in analyzing models to reveal conceptual flaws or highlight quality bottlenecks and in integrating heterogeneous tools into unified tool chains.</p>
-<p>Model transformation includes approaches such as: model-to-text transformation, e.g., to generate code or other textual artifacts from models; text-to-model transformations, e.g., to derive models from structured text such as legacy code; and model-to-model transformations, e.g., to normalize, weave, analyze, optimize, simulate, and refactor models, as well as to translate between modeling languages.</p>
-<p>Model transformation encompasses a variety of technical spaces, including modelware, grammarware, dataware, and ontoware, a variety of model representations, e.g., based on different types of graphs, and a variety of transformation paradigms including rule-based transformations, term rewriting, and manipulations of objects in general-purpose programming languages.</p>
-<p>The study of model transformation includes foundations, structuring mechanisms, and properties, such as modularity, composability, and parameterization of transformations, transformation languages, techniques, and tools. An important goal of the field is the development of high-level model transformation languages, providing transformations that are amenable to higher-order model transformations or tailored to specific transformation problems.<br />
-The efficient execution of model queries and transformations by scalable transformation engines on top of large graph data structures is also a key challenge in different application scenarios. Novel algorithms as well as innovative (e.g., distributed) execution strategies and domain-specific optimizations are sought in this respect.</p>
-<p>To achieve impact on software engineering in general, methodologies and tools are required to integrate model transformation into existing development environments and processes. ICMT is the premier forum for researchers and practitioners from all areas of model transformation.</p>
 <p>Topics of interest include, but are not limited to:</p>
 <p><strong>Transformation paradigms and languages:</strong></p>
 <ul style="margin-top: -1em;">
@@ -27,6 +33,7 @@ The efficient execution of model queries and transformations by scalable transfo
 <li>modularity, reusability, and composition</li>
 <li>comparison of transformation languages</li>
 <li>theoretical foundations</li>
+<li>interplay with other fields, e.g., compiler construction and compiler verification</li>
 </ul>
 <p><strong>Transformation algorithms and strategies:</strong></p>
 <ul style="margin-top: -1em;">
@@ -46,9 +53,8 @@ The efficient execution of model queries and transformations by scalable transfo
 <li>evolution</li>
 <li>development processes</li>
 <li>tool support</li>
-<li>benchmarking of transformation engines</li>
 </ul>
-<p><strong>Applications and case studies:</strong></p>
+<p><strong>Pragmatic aspects:</strong></p>
 <ul style="margin-top: -1em;">
 <li>refactoring</li>
 <li>aspect weaving</li>
@@ -56,9 +62,15 @@ The efficient execution of model queries and transformations by scalable transfo
 <li>model synchronization and change propagation</li>
 <li>co-evolution of models, metamodels, and transformations</li>
 <li>round-trip/reverse/forward engineering</li>
+</ul>
+<p><strong>Applications and case studies:</strong></p>
+<ul style="margin-top: -1em;">
+<li>benchmarks</li>
 <li>industrial experience reports</li>
 <li>empirical studies</li>
 </ul>
 
 
+The <a title="Submission" href="{{ base }}/submission.html">submission and publishing</a> section provides details about the how to submit your paper.
 </div>
+
