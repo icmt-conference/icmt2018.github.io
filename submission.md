@@ -3,15 +3,9 @@ layout: default
 title: Submission
 ---
 
-<article id="post-24" class="post-24 page type-page status-publish hentry">
-<!--
-					<header class="entry-header">
-						
-						<h1 class="entry-title">Submission &#038; Publishing</h1>
-					</header>
--->
-					<div class="entry-content">
-						<h3>Submission Guidelines</h3>
+<div class="entry-content">
+
+<h3>Submission Guidelines</h3>
 
 <p>All contributions will be subject to a rigorous selection process by the international <a title="Organization" href="{{ base }}/organization.html">Program Committee</a>.
 Submissions should follow the LNCS format, be in PDF, and include the authors' names, affiliations and contact details. The page limit is determined by the paper category; see below. All contributions will be reviewed by at least 3 program committee members; a selection will take place based on those reviews.
@@ -31,14 +25,14 @@ All papers should be submitted electronically via
 <a href="https://easychair.org/conferences/?conf=icmt-2018" target="_blank">EasyChair</a>.
 </p>
 
-<h4>Publishing</h4>
-<p style="margin-top: -1.5em;"><span style="float: right; padding-left: 1.5em; margin-top: 0em;"><br />
+<h3>Publishing</h3>
 
 <p>
 The conference proceedings will be published in the <a title="Springer Lecture Notes in Computer Science" href="http://www.springer.com/lncs" target="_blank">Springer Lecture Notes in Computer Science</a> series. Moreover, an award will be presented to the best paper contributed to the conference, and a special issue with an extended version of the best papers from the conference is planned.
 </p>
 
 <p>
-<a title="Springer LNCS" href="http://www.springer.com/computer/lncs?SGWID=0-164-0-0-0"><img src="http://www.di.univaq.it/diruscio/sites/ICMT2015/wp-content/uploads/2014/10/springer_lncs.jpg" alt="" /></a></span>
+<a title="Springer LNCS" href="http://www.springer.com/computer/lncs?SGWID=0-164-0-0-0"><img src="http://www.di.univaq.it/diruscio/sites/ICMT2015/wp-content/uploads/2014/10/springer_lncs.jpg" alt="" /></a>
 <a title="Springer" href="http://www.springer.com"><img src="http://www.di.univaq.it/diruscio/sites/ICMT2015/wp-content/uploads/2014/10/springer_new.jpg" alt="" /></a></p>
+
 										</div><!-- .entry-content -->
