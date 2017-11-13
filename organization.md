@@ -24,7 +24,7 @@ layout: default
 </table>
 <h3>Steering Committee</h3>
 <ul>
-<li>Jordi Cabot, ICREA, Open University of Catalonia</li>
+<li>Jordi Cabot, ICREA, Open University of Catalonia (Spain)</li>
 <li>Juan de Lara, Universidad Autónoma de Madrid (Spain)</li>
 <li>Davide Di Ruscio, University of L’Aquila (Italy)</li>
 <li>Martin Gogolla, University of Bremen (Germany)</li>
@@ -40,12 +40,36 @@ layout: default
 </ul>
 
 <h3>Programme Committee</h3>
-To be announced soon
-<!--
-ICMT2016
+
 <ul>
-<li></li>
+<li>Marsha Chechik, University of Toronto (Canada)</li>
+<li>Antonio Cicchetti, Mälardalen University (Sweden)</li>
+<li>Benoit Combemale, IRISA, Université de Rennes 1 (France)</li>
+<li>Davide Di Ruscio, University of L’Aquila (Italy)</li>
+<li>Martin Gogolla, University of Bremen (Germany)</li>
+<li>Esther Guerra, Universidad Autónoma de Madrid (Spain)</li>
+<li>Soichiro Hidaka, Hosei University (Japan)</li>
+<li>Ludovico Iovino, Gran Sasso Science Institute (Italy)</li>
+<li>Leen Lambers, University of Potsdam (Germany)</li>
+<li>Frédéric Jouault, ESEO (France)</li>
+<li>Timo Kehrer, University of Siegen (Germany)</li>
+<li>Dimitris Kolovos, University of York (UK)</li>
+<li>Yngve Lamo, Bergen University College (Norway)</li>
+<li>Tanja Mayerhofer, Vienna University of Technology (Austria)</li>
+<li>Richard Paige, University of York (UK)</li>
+<li>Bernhard Rumpe, RWTH Aachen University (Germany)</li>
+<li>Houari Sahraoui, Université De Montréal (Canada)</li>
+<li>Andy Schürr, Darmstadt University of Technology (Germany)</li>
+<li>Eugene Syriani, Université de Montréal (Canada)</li>
+<li>Gabriele Taentzer, University of Marburg (Germany)</li>
+<li>Massimo Tisi, INRIA, École des Mines de Nantes (France)</li>
+<li>Dániel Varró, Budapest University of Technology and Economics (Hungary)</li>
+<li>Mark Van Den Brand, Eindhoven University of Technology (The Netherlands)</li>
+<li>Edward Willink, Willink Transformations Ltd. (UK)</li>
+<li>Manuel Wimmer, Vienna University of Technology (Austria)</li>
+<li>Vadim Zaytsev, Raincode Labs (Belgium)</li>
+<li>Steffen Zschaler, King’s College London (UK)</li>
 </ul>
--->
+
 											</div><!-- .entry-content -->
 
