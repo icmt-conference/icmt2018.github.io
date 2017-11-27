@@ -42,10 +42,13 @@ layout: default
 <h3>Programme Committee</h3>
 
 <ul>
+<li>Anthony Anjorin, University of Paderborn (Germany) </li>
+<li>Rubby Casallas, Universidad de los Andes (Colombia) </li>
 <li>Marsha Chechik, University of Toronto (Canada)</li>
 <li>Antonio Cicchetti, Mälardalen University (Sweden)</li>
 <li>Benoit Combemale, IRISA, Université de Rennes 1 (France)</li>
 <li>Davide Di Ruscio, University of L’Aquila (Italy)</li>
+<li>Gregor Engels, University of Paderborn (Germany) </li>
 <li>Martin Gogolla, University of Bremen (Germany)</li>
 <li>Esther Guerra, Universidad Autónoma de Madrid (Spain)</li>
 <li>Soichiro Hidaka, Hosei University (Japan)</li>
@@ -71,5 +74,5 @@ layout: default
 <li>Steffen Zschaler, King’s College London (UK)</li>
 </ul>
 
-											</div><!-- .entry-content -->
+</div>
 
