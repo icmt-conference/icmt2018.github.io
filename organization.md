@@ -48,6 +48,7 @@ layout: default
 <li>Antonio Cicchetti, Mälardalen University (Sweden)</li>
 <li>Benoit Combemale, IRISA, Université de Rennes 1 (France)</li>
 <li>Davide Di Ruscio, University of L’Aquila (Italy)</li>
+<li>Jurgen Dingel, Queen's University (Canada) </li>
 <li>Gregor Engels, University of Paderborn (Germany) </li>
 <li>Martin Gogolla, University of Bremen (Germany)</li>
 <li>Esther Guerra, Universidad Autónoma de Madrid (Spain)</li>
@@ -69,6 +70,7 @@ layout: default
 <li>Massimo Tisi, INRIA, École des Mines de Nantes (France)</li>
 <li>Dániel Varró, Budapest University of Technology and Economics (Hungary)</li>
 <li>Mark Van Den Brand, Eindhoven University of Technology (The Netherlands)</li>
+<li>Hans Vangheluwe, University of Antwerp (Belgium)</li>
 <li>Edward Willink, Willink Transformations Ltd. (UK)</li>
 <li>Manuel Wimmer, Vienna University of Technology (Austria)</li>
 <li>Vadim Zaytsev, Raincode Labs (Belgium)</li>
