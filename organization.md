@@ -56,6 +56,7 @@ layout: default
 <li>Dimitris Kolovos, University of York (UK)</li>
 <li>Yngve Lamo, Bergen University College (Norway)</li>
 <li>Tanja Mayerhofer, Vienna University of Technology (Austria)</li>
+<li>James McKinna, University of Edinburgh (UK)</li>
 <li>Richard Paige, University of York (UK)</li>
 <li>Bernhard Rumpe, RWTH Aachen University (Germany)</li>
 <li>Houari Sahraoui, Université De Montréal (Canada)</li>
