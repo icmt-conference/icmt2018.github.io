@@ -28,7 +28,8 @@ All papers should be submitted electronically via
 <h3>Publishing</h3>
 
 <p>
-The conference proceedings will be published in the <a title="Springer Lecture Notes in Computer Science" href="http://www.springer.com/lncs" target="_blank">Springer Lecture Notes in Computer Science</a> series. Moreover, an award will be presented to the best paper contributed to the conference, and a special issue with an extended version of the best papers from the conference is planned.
+The conference proceedings will be published in the <a title="Springer Lecture Notes in Computer Science" href="http://www.springer.com/lncs" target="_blank">Springer Lecture Notes in Computer Science</a> series. Moreover, an award will be presented to the best paper contributed to the conference.	
+The best papers of the conference will be invited to publish an extended version in the Journal on Software and Systems Modelling (SoSyM) and/or - as appropriate - the Foundations for Mastering Change (FoMaC).
 </p>
 
 <p>
