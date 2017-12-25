@@ -22,7 +22,8 @@ We solicit papers in the following categories:
 
 <p>
 All papers should be submitted electronically via 
-<a href="https://easychair.org/conferences/?conf=icmt-2018" target="_blank">EasyChair</a>.
+<a href="https://easychair.org/conferences/?conf=icmt-2018" target="_blank">EasyChair</a> following the LNCS format.
+Please, follow the instructions and templates available in the <a href="http://www.springer.com/gp/computer-science/lncs/conference-proceedings-guidelines">LNCS author guidelines page</a>.
 </p>
 
 <h3>Publishing</h3>
