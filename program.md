@@ -50,8 +50,9 @@ A Formal Framework for Prototyping Executable Semantics for ATL.
 Artur Boronat
 </li>
 -->
- 
-   
+    
 <ul>
 
+<!--
 </div>
+-->
