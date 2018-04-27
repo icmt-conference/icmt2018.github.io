@@ -8,7 +8,7 @@ layout: default
 
 <div class="entry-content">
 
-Accepted papers (provisional)
+Accepted papers:
 
 <ul>
   <li>
@@ -30,12 +30,10 @@ Gwendal Daniel, Gerson Sunyé and Jordi Cabot
 Schema Transformations and Query Rewriting in Ontological Databases with a Faceted Interface.
 Tadeusz Pankowski
 </li>
-<!-- conditional acceptance
 <li>
 Technical debt in Model Transformation specifications.
 Kevin Lano, Shekoufeh Kolahdouz Rahimi and Mohammadreza Sharbaf
 </li>
--->
 <li>
 Systematic recovery of MDE technology reuse.
 Alfonso Pierantonio, Juri Di Rocco, Ludovico Iovino, Ralf Lämmel, Joahnnes Haertel and Davide Di Ruscio
@@ -44,12 +42,10 @@ Alfonso Pierantonio, Juri Di Rocco, Ludovico Iovino, Ralf Lämmel, Joahnnes Haer
 NMF: A multi-platform Modeling Framework.
 Georg Hinkel
 </li>
-<!-- conditional acceptance
 <li>
 A Formal Framework for Prototyping Executable Semantics for ATL.
 Artur Boronat
 </li>
--->
     
 <ul>
 
