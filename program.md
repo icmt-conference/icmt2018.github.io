@@ -16,6 +16,7 @@ layout: default
 </ul>
 
 <h3>Model transformation reuse (Session #2: 11.00 - 12.30)</h3>
+<h4>Session chair: Massimo Tisi</h4>
 <ul>
 <li>
 Model Transformation Reuse across Metamodels: A classification and comparison of approaches.
@@ -36,6 +37,7 @@ Kevin Lano, Shekoufeh Kolahdouz Rahimi and Mohammadreza Sharbaf
 </ul>
 
 <h3>Transformation Verification & Conditions (ICMT / ICGT joint session: 14.00 - 15.30)</h3>
+<h4>Session chair: Andreas Schürr</h4>
 <ul>
 <li>
 CoqTL: an Internal DSL for Model Transformation in Coq.
@@ -43,17 +45,23 @@ Massimo Tisi and Zheng Cheng
 </li>
 
 <li>
-Graph-Rewriting Petri Nets.
-Géza Kulcsár, Malte Lochau, and Andy Schürr.
+Verifying Graph Transformation Systems with Description Logics.
+Jon Hael Brenas, Rachid Echahed and Martin Strecker.
 </li>
 
 <li>
-Equivalence and Independence in Controlled Graph-Rewriting Processes. Géza Kulcsár, Andrea Corradini, and Malte Lochau. 
+OCL2AC: Automatic Translation of OCL Constraints to Graph Constraints and Application Conditions for Transformation Rules (Tool Presentation Paper).
+Nebras Nassar, Jens Kosiol, Thorsten Arendt and Gabriele Taentzer.
 </li>
+
+
+
+
+
 </ul>
 
-<h3>Model transformation tools (Session #4: 16.00 - 17.30)</h3>
-
+<h3>Model transformation tools (Session #4: 16.00 - 17.00)</h3>
+<h4>Session chair: Eugene Syriani</h4>
 <ul>
 <li>
 NMF: A multi-platform Modeling Framework.
@@ -88,7 +96,7 @@ Is bidirectionality important? Perdita Stevens
 </ul>
 
 <h3>Graph transformations and verification (Session #4: 16.00 - 17.30)</h3>
-
+<h4>Session chair: Ed Willink</h4>
 
 <ul>
   <li>
