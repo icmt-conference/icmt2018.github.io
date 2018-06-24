@@ -17,6 +17,10 @@ layout: default
 -->
 
 <b>Quick link to the <a href="https://icmt2018.github.io/program.html">program</a></b>
+</br>
+<b>Access the proceedings <a href="https://link.springer.com/book/10.1007%2F978-3-319-93317-7">here</a></b>
+</br>
+</br>
 
 <p>Co-located with <strong>Software Technologies: Applications and Foundations (STAF2018)</strong></p>
 <p><span style="line-height: 1.5;">Model transformation encompasses a variety of technical spaces, including modelware, grammarware, dataware, and ontoware, a variety of model representations, e.g., based on different types of graphs, and a variety of transformation paradigms including rule-based transformations, term rewriting, and manipulations of objects in general-purpose programming languages, to mention just a few.</span></p>
